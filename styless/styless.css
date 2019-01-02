@@ -1,0 +1,44 @@
+body {
+    font-size: 100%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 1.6;
+    color: #444;
+    background-color: #0c343d;
+}
+
+.wrapper {
+    background-color: #fff;
+    width: 70%;
+    margin: 0 auto;
+}
+
+#title {
+    text-align: center;
+    color:  White;
+}
+
+.Container {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 1.6em;
+}
+
+#discrption {
+    text-align: center
+}
+
+.form{
+
+
+}
+
+.form_group {
+    margin-bottom: 1.6em;
+    display: flex;
+}
+
+.form_group > label {
+    text-align: right; 
+    width: 50%;
+
+}
